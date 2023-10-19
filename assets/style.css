@@ -1,0 +1,23 @@
+canvas {
+    width: 95vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas-container {
+    display: grid;
+}
+
+.div-random-container {
+    border: .01rem solid black;
+    width: 95vw;
+    height: 45vh;
+    background-color: rgba(255, 255, 0, 0.664)
+}
+
